@@ -88,3 +88,16 @@ Track Wise Web App: A responsive web application featuring advanced data visuali
   </a>
   
 </p>
+
+## GitHub Stats 
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahrozimran&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+
+    <br/><br/>
+
+
+## GitHUB Activities
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahrozimran&theme=react-dark)
+
+  
