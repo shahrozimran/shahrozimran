@@ -1,8 +1,8 @@
-Hi there, I'm Shahroz Imran 👋
-🤖 AI Automation Expert | BS Artificial Intelligence Student | E-commerce Specialist
+# About Me
+## AI Automation Expert | BS Artificial Intelligence Student | E-commerce Specialist
 I am an Artificial Intelligence undergraduate and Automation Specialist passionate about architecting complex low-code/no-code workflows. My expertise lies in bridging the gap between technical machine learning concepts and practical business operations, using tools like n8n and LLMs to drive operational efficiency.
 
-🚀 Specialization
+## Specialization
 I specialize in building intelligent systems that reduce manual workload and optimize performance:
 
 Advanced AI Automation: Architecting end-to-end workflows using n8n, Zapier, and Webhooks to streamline business processes.
@@ -15,8 +15,21 @@ E-commerce Operations: Managing private label dropshipping and inventory systems
 
 Software Development: Building robust solutions using C++ and Python, ranging from hospital management systems to fraud detection algorithms.
 
-🛠 Professional Experience
-AI Automation Specialist
+## My Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-85%25-blue?style=for-the-badge" alt="SQL"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DSA-80%25-green?style=for-the-badge" alt="Data Structures & Algorithms"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-75%25-orange?style=for-the-badge" alt="Machine Learning"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ANN-70%25-purple?style=for-the-badge" alt="Artificial Neural Networks"/>
+</p>
+
+
+## Professional Experience
+### AI Automation Specialist
 Tech Company (E-commerce Focus) | 2023 – Present
 
 
@@ -33,7 +46,7 @@ Social Media Automation: Developed specialized bots for YouTube and Telegram tha
 
 Consultation & Training: Provided technical training on workflow optimization and automation strategies for internal teams.
 
-AI Solutions Developer
+### AI Solutions Developer
 Freelance | 2025 – Present
 
 
@@ -42,7 +55,7 @@ System Design: Engineered an AI-powered automated appointment scheduling system 
 
 Custom Bot Development: Created bespoke social media automation bots to solve specific operational challenges for diverse business clients.
 
-E-commerce Virtual Assistant
+### E-commerce Virtual Assistant
 Self-Employed | Private Label Dropshipping
 
 
