@@ -64,21 +64,27 @@ Market Operations: Managed end-to-end dropshipping operations across Amazon, eBa
 
 Business Growth: Handled sales tracking, inventory management, and conducted in-depth market analysis to ensure consistent growth.
 
-💻 Tech Stack & Tools
+## Tech Stack & Tools
 <p align="left"> <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> &nbsp; <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/> &nbsp; <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> </p>
 
-🎓 Education
+## Education
 Bachelor of Science in Artificial Intelligence University of Central Punjab (UCP) | 2023 – 2027 
 
-📂 Featured Projects
+## Featured Projects
 
 Credit Card Fraud Detection: A console-based application utilizing pattern recognition to identify fraudulent transactions.
 
 
 Track Wise Web App: A responsive web application featuring advanced data visualization capabilities.
 
-
-Hospital Management System: A C++ OOP-based system for efficient patient record management.
-
-
-Bluetooth-Controlled RC Vehicle: An Arduino-based robotics project featuring remote Bluetooth control.
+## Contact US
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=shahrozimran01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shahroz-imran-7403202a2/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+</p>
