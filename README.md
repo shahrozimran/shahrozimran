@@ -86,14 +86,14 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahrozimran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahrozimran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrozimran&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrozimran&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahrozimran&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
 </div>
 
 <br>
