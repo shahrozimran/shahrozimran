@@ -1,28 +1,27 @@
 <div align="center">
+  <div style="padding: 28px 18px; border-radius: 24px; background: linear-gradient(135deg, #111827 0%, #1f2937 45%, #312e81 100%); border: 1px solid rgba(122,162,247,0.25); box-shadow: 0 12px 40px rgba(0,0,0,0.35);">
+    <h1 style="margin: 0; font-size: 3rem; color: #ffffff;">Shahroz Imran</h1>
+    <p style="margin: 12px 0 0; font-size: 1.1rem; color: #c4b5fd;">Full Stack • Mobile • AI & Automation Engineer</p>
+    <p style="margin: 14px 0 0; color: #e5e7eb; max-width: 820px; line-height: 1.7;">
+      Bridging complex machine learning concepts with high-performance business operations.
+      Currently pursuing a BS in Artificial Intelligence at UCP (2023–2027) while engineering scalable workflows,
+      custom LLM agents, cross-platform mobile apps, and robust full-stack applications.
+    </p>
+    <p style="margin-top: 18px;">
+      <a href="mailto:shahrozimran01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+      <a href="https://linkedin.com/in/shahroz-imran-7403202a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="https://github.com/shahrozimran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    </p>
+  </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:1A1B27&height=240&section=header&text=Shahroz%20Imran&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=58&descSize=20" width="100%" alt="header" />
+  <br/>
 
-<a href="https://github.com/shahrozimran">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer+(MERN+%2B+Next.js);Mobile+Developer+%E2%80%94+Flutter+%26+React+Native;Backend+Engineer+%E2%80%94+Node.js%2C+Golang%2C+FastAPI;AI+%26+Automation+Engineer+%E2%80%94+LLM+Agents+%2B+n8n;BS+Artificial+Intelligence+%40+UCP" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Web+Developer;Flutter+%26+React+Native+Developer;Backend+Engineer+(Node.js+%7C+Golang+%7C+FastAPI);AI+%26+Automation+Engineer;BS+Artificial+Intelligence+%40+UCP" alt="Typing SVG" />
 
-<br/>
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shahrozimran&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/shahrozimran?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27" alt="followers" />
-
-<p align="center">
-  <b>Bridging complex machine learning concepts with high-performance business operations.</b><br/>
-  Currently pursuing a BS in Artificial Intelligence at UCP (2023–2027) while engineering scalable workflows,
-  custom LLM agents, cross-platform mobile apps, and robust full-stack applications.
-</p>
-
-<p align="center">
-  <a href="mailto:shahrozimran01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/shahroz-imran-7403202a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/shahrozimran"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
+  <img src="https://komarev.com/ghpvc/?username=shahrozimran&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/shahrozimran?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27" alt="followers" />
 </div>
 
 ---
@@ -221,14 +220,13 @@ const shahroz = {
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahrozimran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrozimran&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=shahrozimran&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahrozimran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shahrozimran&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophies" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahrozimran&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </div>
 
 <br>
@@ -236,7 +234,7 @@ const shahroz = {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahrozimran&theme=tokyo-night&hide_border=true&bg_color=1a1b27&area=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/7AA2F7/shahrozimran" alt="GitHub Contribution Chart" width="100%" />
 </div>
 
 ---
@@ -255,9 +253,7 @@ const shahroz = {
 ## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=BB9AF7&center=true&vCenter=true&width=700&lines=Let's+build+something+amazing+together.;Open+to+freelance+%26+collaborations.;Ping+me+%E2%80%94+I+reply+fast+%F0%9F%9A%80" alt="footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=BB9AF7&center=true&vCenter=true&width=700&height=40&lines=Let's+build+something+amazing+together.;Open+to+freelance+%26+collaborations.;Ping+me+%E2%80%94+I+reply+fast+%F0%9F%9A%80" alt="footer typing" />
   <br/><br/>
   <i>Feel free to reach out for collaborations or freelance opportunities!</i>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" alt="footer" />
